@@ -68,8 +68,15 @@ body {
 }
 @media (min-width: 800px) {
   .inner-card{
-    padding: 2rem;
-    margin-top: 10rem;
+    font-size: 1.7rem;
+    padding: 8rem 0;
+    margin-top: 30rem;
     width: 80%;
+  }
+  .main-heading{
+    margin-top: 0;
+  }
+  #purple-el, #purple-es{
+    padding: 2rem;
   }
 }
